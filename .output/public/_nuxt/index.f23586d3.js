@@ -1,1 +1,0 @@
-import{_ as a,f as e,l as _,q as n,s as t,F as l,m as r,k as d,v as o}from"./entry.1ef18191.js";const i={},m=r("div",null," 여기가 index 페이지입니다. ",-1);function f(u,p){const c=e("v-btn"),s=e("v-icon");return d(),_(l,null,[m,n(c,null,{default:t(()=>[o("안녕")]),_:1}),n(s,null,{default:t(()=>[o("mdi-close")]),_:1})],64)}const x=a(i,[["render",f]]);export{x as default};
