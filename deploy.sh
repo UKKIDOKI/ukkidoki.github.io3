@@ -11,7 +11,7 @@ git push origin master
 # build
 yarn generate
 # navigate into the build output directory
-cd .output/public
+cd /.output/public
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
